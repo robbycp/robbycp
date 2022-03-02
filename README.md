@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi I'm Robby 👋
+
+![banner profile](https://www.robbycp.com/assets/portfolio/personal-blog.png)
+I’m a frontend engineer, working on react-native apps mostly, some in react with create-react-app or NextJs for websites. Right now i’m developing [react-native-boilerplate](https://github.com/robbycp/react-native-boilerplate) to create react native boilerplate which is production ready with all packages that are important in production. Sometimes I write some technical blog in [medium](https://medium.com/@robbycaesar).
+
+In my leisure, I listen to jazz music, recording a song in [soundcloud](https://soundcloud.com/robbycp), or exercising.
 
 <!--
 **robbycp/robbycp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
